@@ -2,6 +2,7 @@
 
 > A full-stack Sweet Shop Management System for authentic Indian sweets
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://sweet-shop-management-system-delta.vercel.app/)
+(FrontEnd only)
 
 ## Overview
 
