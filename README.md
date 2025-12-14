@@ -1,10 +1,13 @@
-# Sweetory
+# Sweetory  
 
 > A full-stack Sweet Shop Management System for authentic Indian sweets
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://sweet-shop-management-system-delta.vercel.app/)
 
 ## Overview
 
 Sweetory is a comprehensive e-commerce platform designed specifically for managing and selling authentic Indian sweets. Built with modern web technologies and following Test-Driven Development (TDD) principles, it provides a seamless experience for both customers and administrators.
+
+## Deployed using Vercel.
 
 ### Key Features
 
